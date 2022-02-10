@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han Bolo",
+      "occupation": "Yolo",
+      "weapon": "Dolo",
+      "cartoon": false
+    },
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "test",
+      "occupation": "test",
+      "weapon": "secure",
+      "id": 4
+    },
+    {
+      "name": "Mihir",
+      "occupation": "back-end dev",
+      "weapon": "awdwa",
+      "cartoon": false,
+      "id": 5
+    },
+    {
+      "name": "Alufe",
+      "occupation": "back-end dev",
+      "weapon": "awdwa",
+      "cartoon": false,
+      "id": 6
+    },
+    {
+      "name": "wadawd",
+      "occupation": "wadawd",
+      "weapon": "wadawdwadwa",
+      "cartoon": false,
+      "id": 7
+    },
+    {
+      "name": "Alufe",
+      "occupation": "wadwa",
+      "weapon": "awdwadaw",
+      "cartoon": false,
+      "id": 8
+    },
+    {
+      "name": "New Name",
+      "occupation": "Smuggler",
+      "weapon": "Pistol",
+      "cartoon": false,
+      "id": 9
+    },
+    {
+      "name": "checkbox123",
+      "occupation": "checkbox123",
+      "weapon": "checkbox123",
+      "cartoon": true,
+      "id": 12
+    }
+  ]
+}
